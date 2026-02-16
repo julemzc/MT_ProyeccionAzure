@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+logs/
+*.pkl
+Thumbs.db
+.DS_Store
